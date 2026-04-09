@@ -12,9 +12,13 @@ Live link: https://web-production-5dcc.up.railway.app/
 
 ## Screenshots
 
-![Prospecting Pipeline UI](screenshot-ui.png)
+### UI — Run a prospect search in plain English
 
-![HubSpot Contacts](screenshot-hubspot.png)
+<img src="screenshot-ui.png" width="500">
+
+### HubSpot — Contacts created automatically after each run
+
+<img src="screenshot-hubspot.png" width="500">
 
 ---
 
