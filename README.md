@@ -1,8 +1,12 @@
-# GTM Prospecting Pipeline
+# Prospecting Pipeline
 
 A natural language prospecting tool that finds contacts via Hunter.io, scores them for ICP fit using Claude, and pushes accepted contacts directly into HubSpot.
 
 **Flow:** Type a request → Hunter fetches contacts → Claude scores fit → HubSpot sync
+
+---
+
+Live link: https://web-production-5dcc.up.railway.app/
 
 ---
 
@@ -101,7 +105,6 @@ Your app is now live at `https://yourapp.up.railway.app`
 
 - **ICP Profile field** — fill this in for more accurate scoring. Example: *"B2B SaaS, 50-500 employees, US, security buyer, titles: CISO / VP Security / IT Director"*
 - **Min Score** — default is 60. Lower it if too many are being rejected, raise it for stricter filtering.
-- **Hunter free tier** — 25 domain searches/month. Enough to test. Paid plans start at $49/mo.
 - **Contacts with no email** — Hunter won't always have emails for every domain. Those are skipped automatically.
 
 ---
