@@ -2,7 +2,7 @@
 
 A natural language prospecting tool that finds contacts via Hunter.io, scores them for ICP fit using Claude, and pushes accepted contacts directly into HubSpot.
 
-**Flow:** Type a request → Hunter fetches contacts → Claude scores fit → HubSpot sync
+**Flow:** Type/Speak a request → Hunter fetches contacts → Claude scores fit → HubSpot sync
 
 ---
 
