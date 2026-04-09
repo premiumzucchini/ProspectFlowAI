@@ -12,9 +12,9 @@ Live link: https://web-production-5dcc.up.railway.app/
 
 ## Screenshots
 
-![Prospecting Pipeline UI](docs/screenshot-ui.png)
+![Prospecting Pipeline UI](screenshot-ui.png)
 
-![HubSpot Contacts](docs/screenshot-hubspot.png)
+![HubSpot Contacts](screenshot-hubspot.png)
 
 ---
 
