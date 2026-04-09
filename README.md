@@ -18,7 +18,7 @@ Live link: https://web-production-5dcc.up.railway.app/
 
 ### HubSpot — Contacts created automatically after each run
 
-<img src="screenshot-hubspot.png" width="500">
+<img src="screenshot-hubspot.png" width="700">
 
 ---
 
