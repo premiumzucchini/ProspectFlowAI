@@ -10,6 +10,14 @@ Live link: https://web-production-5dcc.up.railway.app/
 
 ---
 
+## Screenshots
+
+![Prospecting Pipeline UI](docs/screenshot-ui.png)
+
+![HubSpot Contacts](docs/screenshot-hubspot.png)
+
+---
+
 ## What It Does
 
 1. You type something like: *"Give me 50 cybersecurity prospects, 50-500 employees, US"*
